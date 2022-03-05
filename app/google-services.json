@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162438130400",
+    "firebase_url": "https://spisok-bolnits-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spisok-bolnits",
+    "storage_bucket": "spisok-bolnits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162438130400:android:47b5315c884d06afeafe85",
+        "android_client_info": {
+          "package_name": "com.uas.spisokbolnits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162438130400-gu3krv5qc7o6jcf14612b62uucd25812.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1SW7nd-M3vpIH9qT4EcxsLBa-bXrsD10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162438130400-gu3krv5qc7o6jcf14612b62uucd25812.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
